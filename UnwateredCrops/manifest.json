@@ -1,0 +1,10 @@
+﻿{
+  "Name": "UnwateredCrops",
+  "Author": "Kimdol",
+  "Version": "1.0.0",
+  "Description": "A test mod.",
+  "UniqueID": "Kimdol.UnwateredCrops",
+  "EntryDll": "UnwateredCrops.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
